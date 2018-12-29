@@ -1,0 +1,5 @@
+D:\onlinequiz\quiz\quiz\bin\quiz.dll
+D:\onlinequiz\quiz\quiz\bin\quiz.pdb
+D:\onlinequiz\quiz\quiz\obj\Debug\quiz.csprojResolveAssemblyReference.cache
+D:\onlinequiz\quiz\quiz\obj\Debug\quiz.dll
+D:\onlinequiz\quiz\quiz\obj\Debug\quiz.pdb
